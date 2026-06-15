@@ -1,0 +1,12 @@
+# Qt
+*.pro.user
+*.pro.user.*
+build/
+.qtcreator/
+CMakeLists.txt.user
+
+# C++
+*.obj
+*.exe
+*.dll
+*.lib
